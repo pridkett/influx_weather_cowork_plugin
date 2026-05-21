@@ -9,6 +9,15 @@
       "version": "1.0.0",
       "category": "personal",
       "tags": ["weather", "personal", "iot", "analytics"]
+    },
+    {
+      "name": "cocounsel-legal",
+      "displayName": "CoCounsel Legal",
+      "source": "./cocounsel-legal",
+      "description": "CoCounsel Legal delivers comprehensive Westlaw Deep Research reports with inline, linked citations to Westlaw and Practical Law sources.",
+      "author": {
+        "name": "Thomson Reuters"
+      }
     }
   ]
 }
